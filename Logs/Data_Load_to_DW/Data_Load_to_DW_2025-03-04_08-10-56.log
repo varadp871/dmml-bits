@@ -1,0 +1,10 @@
+2025-03-04 08:10:56,490 - INFO - S3 client created successfully
+2025-03-04 08:10:56,642 - INFO - CSV file downloaded from S3 successfully
+2025-03-04 08:10:56,679 - INFO - CSV file read into DataFrame successfully
+2025-03-04 08:10:56,728 - INFO - PostgreSQL connection established successfully
+2025-03-04 08:10:56,807 - INFO - Table customer_churn_analysis truncated successfully
+2025-03-04 08:10:56,904 - INFO - CSV file created from DataFrame successfully
+2025-03-04 08:10:56,910 - ERROR - An error occurred: invalid input syntax for type integer: "-1.284112254962515"
+CONTEXT:  COPY customer_churn_analysis, line 1, column tenure: "-1.284112254962515"
+
+2025-03-04 08:10:56,910 - INFO - PostgreSQL connection closed successfully

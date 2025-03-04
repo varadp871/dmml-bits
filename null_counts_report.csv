@@ -1,0 +1,43 @@
+Column,Null Count,File Name
+customerid,2,Postgres
+gender,0,Postgres
+seniorcitizen,0,Postgres
+partner,0,Postgres
+dependents,0,Postgres
+tenure,0,Postgres
+phoneservice,0,Postgres
+multiplelines,0,Postgres
+internetservice,0,Postgres
+onlinesecurity,0,Postgres
+onlinebackup,0,Postgres
+deviceprotection,0,Postgres
+techsupport,0,Postgres
+streamingtv,0,Postgres
+streamingmovies,0,Postgres
+contract,0,Postgres
+paperlessbilling,0,Postgres
+paymentmethod,0,Postgres
+monthlycharges,0,Postgres
+totalcharges,0,Postgres
+churn,0,Postgres
+customerID,2,Google Drive
+gender,0,Google Drive
+SeniorCitizen,0,Google Drive
+Partner,0,Google Drive
+Dependents,0,Google Drive
+tenure,0,Google Drive
+PhoneService,0,Google Drive
+MultipleLines,0,Google Drive
+InternetService,0,Google Drive
+OnlineSecurity,0,Google Drive
+OnlineBackup,0,Google Drive
+DeviceProtection,0,Google Drive
+TechSupport,0,Google Drive
+StreamingTV,0,Google Drive
+StreamingMovies,0,Google Drive
+Contract,0,Google Drive
+PaperlessBilling,0,Google Drive
+PaymentMethod,0,Google Drive
+MonthlyCharges,0,Google Drive
+TotalCharges,0,Google Drive
+Churn,0,Google Drive

@@ -1,0 +1,5 @@
+2025-02-26 03:30:34,344 - INFO - Data transformation started
+2025-02-26 03:30:34,567 - INFO - Data read from S3
+2025-02-26 03:30:34,568 - INFO - Transformations applied
+2025-02-26 03:30:34,716 - INFO - Data loaded to S3
+2025-02-26 03:30:34,716 - INFO - Data transformation completed

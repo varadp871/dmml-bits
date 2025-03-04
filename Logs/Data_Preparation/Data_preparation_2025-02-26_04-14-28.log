@@ -1,0 +1,7 @@
+2025-02-26 04:14:29 - Data preparation started
+2025-02-26 04:14:29 - CSV files read from S3
+2025-02-26 04:14:29 - Final file read from S3
+2025-02-26 04:14:29 - Numerical attributes standardized
+2025-02-26 04:14:29 - Categorical variables encoded
+2025-02-26 04:14:30 - EDA performed on final customer_churn_master.csv file
+2025-02-26 04:14:30 - Data preparation completed
