@@ -1,0 +1,2 @@
+['remote "dmml-dvc"']
+    url = s3://dmml-storage-bits/dvc-storage
