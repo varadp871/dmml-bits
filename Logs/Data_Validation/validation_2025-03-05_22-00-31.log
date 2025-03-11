@@ -1,0 +1,62 @@
+2025-03-05 22:00:31 - Validation started
+2025-03-05 22:00:31 - Getting latest timestamp folder for raw-data/source=postgres_rds/type=customer_churn/
+2025-03-05 22:00:31 - Latest timestamp folder: raw-data/source=postgres_rds/type=customer_churn/timestamp=2025-03-05/
+2025-03-05 22:00:31 - Getting latest timestamp folder for raw-data/source=google_drive/type=customer_churn/
+2025-03-05 22:00:31 - Latest timestamp folder: raw-data/source=google_drive/type=customer_churn/timestamp=2025-03-05/
+2025-03-05 22:00:31 - Validating data for Postgres
+2025-03-05 22:00:31 - Null counts for Postgres: 
+              Column  Null Count File Name
+0         customerid           2  Postgres
+1             gender           0  Postgres
+2      seniorcitizen           0  Postgres
+3            partner           0  Postgres
+4         dependents           0  Postgres
+5             tenure           0  Postgres
+6       phoneservice           0  Postgres
+7      multiplelines           0  Postgres
+8    internetservice           0  Postgres
+9     onlinesecurity           0  Postgres
+10      onlinebackup           0  Postgres
+11  deviceprotection           0  Postgres
+12       techsupport           0  Postgres
+13       streamingtv           0  Postgres
+14   streamingmovies           0  Postgres
+15          contract           0  Postgres
+16  paperlessbilling           0  Postgres
+17     paymentmethod           0  Postgres
+18    monthlycharges           0  Postgres
+19      totalcharges           0  Postgres
+20             churn           0  Postgres
+2025-03-05 22:00:31 - Duplicate rows for Postgres: 3041
+2025-03-05 22:00:31 - Validating data for Google Drive
+2025-03-05 22:00:31 - Null counts for Google Drive: 
+              Column  Null Count     File Name
+0         customerID           2  Google Drive
+1             gender           0  Google Drive
+2      SeniorCitizen           0  Google Drive
+3            Partner           0  Google Drive
+4         Dependents           0  Google Drive
+5             tenure           0  Google Drive
+6       PhoneService           0  Google Drive
+7      MultipleLines           0  Google Drive
+8    InternetService           0  Google Drive
+9     OnlineSecurity           0  Google Drive
+10      OnlineBackup           0  Google Drive
+11  DeviceProtection           0  Google Drive
+12       TechSupport           0  Google Drive
+13       StreamingTV           0  Google Drive
+14   StreamingMovies           0  Google Drive
+15          Contract           0  Google Drive
+16  PaperlessBilling           0  Google Drive
+17     PaymentMethod           0  Google Drive
+18    MonthlyCharges           0  Google Drive
+19      TotalCharges           0  Google Drive
+20             Churn           0  Google Drive
+2025-03-05 22:00:31 - Duplicate rows for Google Drive: 3045
+2025-03-05 22:00:31 - Getting latest timestamp folder for raw-data/source=postgres_rds/type=customer_churn/
+2025-03-05 22:00:31 - Latest timestamp folder: raw-data/source=postgres_rds/type=customer_churn/timestamp=2025-03-05/
+2025-03-05 22:00:31 - Copying raw-data/source=postgres_rds/type=customer_churn/timestamp=2025-03-05/customer_churn.csv to pre_processed/source/customer_churn_postgres.csv
+2025-03-05 22:00:32 - Getting latest timestamp folder for raw-data/source=google_drive/type=customer_churn/
+2025-03-05 22:00:32 - Latest timestamp folder: raw-data/source=google_drive/type=customer_churn/timestamp=2025-03-05/
+2025-03-05 22:00:32 - Copying raw-data/source=google_drive/type=customer_churn/timestamp=2025-03-05/customer_churn.csv to pre_processed/source/customer_churn_gdrive.csv
+2025-03-05 22:00:32 - Validation complete

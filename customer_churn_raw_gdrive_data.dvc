@@ -1,13 +1,13 @@
 deps:
 - hash: md5
   path: s3://dmml-storage-bits/raw-data/source=google_drive/type=customer_churn/
-  md5: 1ce1a7e7a4595024596b47e8ff4a6c72.dir
-  size: 8366610
-  nfiles: 6
+  md5: b3c6b1818ca7bb66bed3a73ffc8d6f0d.dir
+  size: 18104114
+  nfiles: 13
 outs:
 - hash: md5
   path: customer_churn_raw_gdrive_data
-  md5: d2568046be821fd6bfadca99b3e2bf5a.dir
-  size: 8366610
-  nfiles: 6
-md5: 8ea9c1a4b0c70270599a57b2c57b4c8e
+  md5: 46cc29ee808d624806e7c41d2f653a37.dir
+  size: 18104114
+  nfiles: 13
+md5: f5cddf5e57aec9026876e9c0de35a2a6

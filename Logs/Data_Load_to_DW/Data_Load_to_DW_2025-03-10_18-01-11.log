@@ -1,0 +1,8 @@
+2025-03-10 18:01:11,545 - INFO - S3 client created successfully
+2025-03-10 18:01:11,663 - INFO - CSV file downloaded from S3 successfully
+2025-03-10 18:01:11,701 - INFO - CSV file read into DataFrame successfully
+2025-03-10 18:01:11,750 - INFO - PostgreSQL connection established successfully
+2025-03-10 18:01:11,788 - INFO - Table customer_churn_analysis truncated successfully
+2025-03-10 18:01:11,878 - INFO - CSV file created from DataFrame successfully
+2025-03-10 18:01:12,158 - INFO - Data loaded into table customer_churn_analysis successfully
+2025-03-10 18:01:12,158 - INFO - PostgreSQL connection closed successfully

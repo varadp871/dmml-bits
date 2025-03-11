@@ -1,0 +1,9 @@
+2025-03-06 18:00:57 - Data preparation started
+2025-03-06 18:00:57 - CSV files read from S3
+2025-03-06 18:00:57 - Final file read from S3
+2025-03-06 18:00:57 - Numerical attributes standardized
+2025-03-06 18:00:57 - Categorical variables encoded
+2025-03-06 18:00:58 - EDA performed on customer_churn_master.csv file
+2025-03-06 18:00:58 - Creating CSV from updated final_df --> customer_churn_analysis_for_data_transformation.csv
+2025-03-06 18:00:58 - Created the csv. Now uploading the csv to S3 bucket dmml-storage-bits/post_processed/source/
+2025-03-06 18:00:58 - Data preparation completed

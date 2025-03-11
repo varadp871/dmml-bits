@@ -1,0 +1,4 @@
+2025-03-04 12:56:04,617 - INFO - S3 client created successfully
+2025-03-04 12:56:04,728 - INFO - CSV file downloaded from S3 successfully
+2025-03-04 12:56:04,759 - INFO - CSV file read into DataFrame successfully
+2025-03-04 12:56:04,788 - INFO - PostgreSQL connection established successfully

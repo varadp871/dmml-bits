@@ -1,13 +1,13 @@
 deps:
 - hash: md5
   path: s3://dmml-storage-bits/raw-data/source=postgres_rds/type=customer_churn/
-  md5: 8679bdcbf7a7e103c5a2a92277844ae8.dir
-  size: 8358294
-  nfiles: 6
+  md5: 34bf29e1261b451a324fcedcb7aad220.dir
+  size: 18086131
+  nfiles: 13
 outs:
 - hash: md5
   path: customer_churn_raw_postgresdb_data
-  md5: 9aefee840f42577412b0d6746fe7f33f.dir
-  size: 8358294
-  nfiles: 6
-md5: 71ce382b67590a21fe27401befa9643c
+  md5: 79fca99c9674e96ba529de2b239f93e2.dir
+  size: 18086131
+  nfiles: 13
+md5: 3a4de0954890b28d358dbd6af7c8f66d

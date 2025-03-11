@@ -1,0 +1,10 @@
+2025-03-08 14:01:04,380 - INFO - Data transformation started
+2025-03-08 14:01:04,688 - INFO - Fetched and read CSV from S3 Bucket --> dmml-storage-bits
+2025-03-08 14:01:04,688 - INFO - Applying fixes for individual columns
+2025-03-08 14:01:04,688 - INFO - Senior Citizen column --> Filling 0 values for NaN cols
+2025-03-08 14:01:04,689 - INFO - TotalCharges column --> Filling 0 values for NaN cols
+2025-03-08 14:01:04,691 - INFO - MonthlyCharges column --> Filling 0 values for NaN cols
+2025-03-08 14:01:04,693 - INFO - Data read completed from S3
+2025-03-08 14:01:04,695 - INFO - Transformations completed successfully!
+2025-03-08 14:01:04,911 - INFO - Data loaded to S3
+2025-03-08 14:01:04,911 - INFO - Data transformation completed
