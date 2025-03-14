@@ -1,0 +1,7 @@
+frozen: true
+deps:
+- hash: md5
+  path: s3://dmml-storage-bits/post_processed/
+outs:
+- hash: md5
+  path: customer_churn_transformed_data

@@ -1,0 +1,7 @@
+frozen: true
+deps:
+- hash: md5
+  path: s3://dmml-storage-bits/feature_store/
+outs:
+- hash: md5
+  path: customer_churn_feature_store_data
